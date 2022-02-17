@@ -50,6 +50,3 @@ class ProductStructure
 }
 
 
-
-$teste = new ProductStructure();
-$teste->make();
